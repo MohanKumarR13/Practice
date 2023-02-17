@@ -1,0 +1,6 @@
+package Expression;
+@FunctionalInterface
+public interface Car {
+	public abstract void start();
+	public abstract void starst();
+}

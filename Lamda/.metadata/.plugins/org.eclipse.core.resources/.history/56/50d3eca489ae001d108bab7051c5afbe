@@ -1,0 +1,14 @@
+package Expression;
+
+public class CarRunner {
+	
+	
+	public void classicalWay() {
+		Car benz=new Benz();
+		benz.start();
+	}
+	
+public static void main(String[] args) {
+
+}
+}

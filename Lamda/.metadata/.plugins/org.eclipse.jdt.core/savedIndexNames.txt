@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Lamda\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1597236625.index
+399730230.index
+2700623975.index
+2820902450.index

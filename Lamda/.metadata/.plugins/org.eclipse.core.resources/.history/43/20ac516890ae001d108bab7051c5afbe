@@ -1,0 +1,15 @@
+package Expression;
+
+public class CalculateRunner {
+	public void usingClassicalway() {
+		Calculate calculate=new CalculatorImpl();
+		System.out.println(calculate.add(1, 2));
+	}
+	public void usingInnerClass() {
+		
+	}
+public static void main(String[] args) {
+	CalculateRunner calculateRunner=new CalculateRunner();
+	calculateRunner.usingClassicalway();
+}
+}
